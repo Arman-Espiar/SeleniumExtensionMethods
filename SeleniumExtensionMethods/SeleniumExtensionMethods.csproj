@@ -4,6 +4,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>Selenium Extension methods</Title>
+    <Authors>Arman Espiar</Authors>
+    <Description>Some extension methods for writing less code without throwing an exception.</Description>
+    <RepositoryUrl>https://github.com/Arman-Espiar/SeleniumExtensionMethods</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Arman-Espiar/SeleniumExtensionMethods</PackageProjectUrl>
+    <PackageTags>selenium,extension methods</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 	<ItemGroup>
