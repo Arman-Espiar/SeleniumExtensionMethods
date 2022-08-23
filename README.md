@@ -1,6 +1,6 @@
 # SeleniumExtensionMethods
 
-Some practical Extension methods for Selenium Library.
+Some extension methods for writing less code without throwing an exception for Selenium Library.
 
 ## Usage
 
