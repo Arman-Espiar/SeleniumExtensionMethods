@@ -56,7 +56,7 @@ driver?.FindElementIfExistsById("wpTextbox1")
   
   ## Note:
   
-   extension methods instead of throw exception returned null.
+   If extension methods can not find a web element, extension methods return null instead of throwing exceptions.
    
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
