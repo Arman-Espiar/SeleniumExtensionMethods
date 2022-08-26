@@ -58,7 +58,7 @@ driver?.FindElementIfExistsById("wpTextbox1")
   
    If extension methods can not find a web element, extension methods return null instead of throwing exceptions.
    
-   ##Install
+   ## Install
    ```bash
 Install-Package SeleniumExtensionMethods -Version 1.0.0
 ```
