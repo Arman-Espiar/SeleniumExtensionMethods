@@ -60,7 +60,7 @@ driver?.FindElementIfExistsById("wpTextbox1")
    
    ## Install
    ```bash
-Install-Package SeleniumExtensionMethods -Version 1.0.0
+Install-Package SeleniumExtensionMethods -Version 1.0.1
 ```
    [nuget](https://www.nuget.org/packages/SeleniumExtensionMethods)
    
